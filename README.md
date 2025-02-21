@@ -13,11 +13,11 @@ Here are the technologies I work with:
 
 ## 🚀 My GitHub Stats
 
-![Mohithsai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohithMalla&show_icons=true&theme=radical))
+![Mohithsai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohithMalla&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api?username=MohithMalla&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MohithMalla&show_icons=true&theme=radical)
 
 ## 🌱 What I’m currently learning:
 - DevOps tools like Jenkins, Kubernetes
