@@ -1,19 +1,19 @@
-# Hi there, I'm Raghavendra! 👋
+# Hi there, I'm MohithSai Malla! 👋
 
-I am a *Computer Science Graduate* passionate about software development, problem-solving, and always eager to learn new technologies. Welcome to my GitHub profile! 😊
+I am a Computer Science Graduate passionate about software development, problem-solving, and always eager to learn new technologies. Welcome to my GitHub profile! 😊
 
 ## 🔧 Tech Stack
 Here are the technologies I work with:
 
-- *Frontend:* HTML, CSS, JavaScript, React.js
-- *Backend:* Node.js, Express.js, MongoDB, Python
-- *Databases:* MySQL, MongoDB
-- *Version Control:* Git, GitHub
-- *Tools:* Docker, Postman, VS Code, Linux
+- ## Frontend: HTML, CSS, JavaScript, React.js
+- ## Backend : Node.js, Express.js, MongoDB, Python
+- ## Databases: MySQL, MongoDB
+- ## Version Control: Git, GitHub
+- ## Tools: Docker, Postman, VS Code, Linux
 
 ## 🚀 My GitHub Stats
 
-![Raghavendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavnadiminti&show_icons=true&theme=radical)
+![Mohithsai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohithMalla&show_icons=true&theme=radical))
 
 ## 📊 Most Used Languages
 
@@ -24,8 +24,8 @@ Here are the technologies I work with:
 - Advanced frontend frameworks like Next.js
 
 ## 📫 How to reach me:
-- Email: raghavendra@example.com
-- LinkedIn: [Raghavendra](https://www.linkedin.com/in/your-link/)
-- GitHub: [Raghavnadiminti](https://github.com/Raghavnadiminti)
+- Email: mallamohith20@gmail.com
+- LinkedIn: [Mohithsai]([https://www.linkedin.com/in/mohithmalla/])
+- GitHub: [MohithMalla](https://github.com/MohithMalla)
 
 Thanks for stopping by! 😄
