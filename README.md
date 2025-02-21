@@ -25,7 +25,7 @@ Here are the technologies I work with:
 
 ## 📫 How to reach me:
 - Email: mallamohith20@gmail.com
-- LinkedIn: [mohithmalla]([https://www.linkedin.com/in/mohithmalla/])
+- LinkedIn: [mohithmalla](https://www.linkedin.com/in/your-link/)
 - GitHub: [MohithMalla](https://github.com/MohithMalla)
 
 Thanks for stopping by! 😄
