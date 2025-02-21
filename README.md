@@ -17,7 +17,7 @@ Here are the technologies I work with:
 
 ## 📊 **Most Used Languages**  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MohithMalla&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohithMalla&layout=compact&langs_count=10&theme=radical)
 
 ## 🌱 **What I’m currently learning:**  
 - DevOps tools like Jenkins, Kubernetes  
