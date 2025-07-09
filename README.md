@@ -5,11 +5,12 @@ I am a Computer Science Graduate passionate about software development, problem-
 ## 🔧 **Tech Stack**  
 Here are the technologies I work with:  
 
-- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Frontend:** HTML, CSS, JavaScript, React.js  ,Redux
 - **Backend:** Node.js, Express.js, MongoDB, Python  
 - **Databases:** MySQL, MongoDB  
-- **Version Control:** Git, GitHub  
-- **Tools:** Docker, Postman, VS Code, Linux  
+- **Version Control:** Git, GitHub
+- **Languages :** C,Java, Python 
+- **Tools:** Docker, Postman, VS Code, Jira
 
 ## 🚀 **My GitHub Stats**  
 
