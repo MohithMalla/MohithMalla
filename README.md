@@ -7,19 +7,25 @@
 
 - 💬 Ask me about **MERN Stack, DBMS, OS, DSA, and JavaScript**
 
-- 📫 How to reach me **mallamohith20@gmail.com**
+- 📫 Reach me at **mallamohith20@gmail.com**
 
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/mohithmalla)
+- 📄 Know more about my professional journey on [LinkedIn](https://www.linkedin.com/in/mohithmalla)
 
-- ⚡ Fun fact **I debug code more than I eat snacks! 😄**
+- ⚡ Fun fact: **I debug code more than I eat snacks! 😄**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohithmalla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/MohithMalla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a>
-<a href="mailto:mallamohith20@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mohithmalla" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://github.com/MohithMalla" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
+  </a>
+  <a href="mailto:mallamohith20@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -57,6 +63,6 @@
 ---
 
 <!-- Optional: GitHub activity graph -->
-<!-- 
+<!--
 [![Mohith's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohithMalla&theme=react-dark)](https://github.com/MohithMalla)
 -->
