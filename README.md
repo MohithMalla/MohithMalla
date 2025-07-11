@@ -1,32 +1,58 @@
-# Hi there, I'm MohithSai Malla! 👋  
+# 👋 Hey there! I'm **MohithSai Malla**
 
-I am a Computer Science Graduate passionate about software development, problem-solving, and always eager to learn new technologies. Welcome to my GitHub profile! 😊  
+🎓 A passionate **Computer Science Graduate** who loves solving real-world problems, building full-stack applications, and learning new technologies every day.  
 
-## 🔧 **Tech Stack**  
-Here are the technologies I work with:  
+Welcome to my GitHub — where innovation meets code! 🚀
 
-- **Frontend:** HTML, CSS, JavaScript, React.js  ,Redux
-- **Backend:** Node.js, Express.js, MongoDB, Python  
-- **Databases:** MySQL, MongoDB  
-- **Version Control:** Git, GitHub
-- **Languages :** C,Java, Python 
-- **Tools:** Docker, Postman, VS Code, Jira
+---
 
-## 🚀 **My GitHub Stats**  
+## 💻 Tech Stack I Work With
 
-![Mohithsai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohithMalla&show_icons=true&theme=radical)  
+### 👨‍💻 Frontend  
+- HTML5, CSS3, JavaScript  
+- React.js, Redux  
 
-## 📊 **Most Used Languages**  
+### 🛠 Backend  
+- Node.js, Express.js  
+- Python (Flask, basics of Django)  
 
+### 🗄️ Databases  
+- MongoDB  
+- MySQL  
+
+### 🧰 Tools & Platforms  
+- Git & GitHub  
+- Docker, Postman  
+- VS Code, Jira  
+
+### 🔤 Languages  
+- C, Java, Python  
+
+---
+
+## 📊 GitHub Stats
+
+![MohithSai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohithMalla&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohithMalla&layout=compact&langs_count=10&theme=radical)
 
-## 🌱 **What I’m currently learning:**  
-- DevOps tools like Jenkins, Kubernetes  
-- Advanced frontend frameworks like Next.js  
+---
 
-## 📫 **How to reach me:**  
-- Email: mallamohith20@gmail.com  
-- LinkedIn: [mohithmalla](https://www.linkedin.com/in/your-link/)  
-- GitHub: [MohithMalla](https://github.com/MohithMalla)  
+## 🌱 Currently Exploring  
+- ⚙️ DevOps: Jenkins, Kubernetes  
+- 💡 Advanced Frontend: Next.js, TypeScript  
+- 📈 Building production-ready MERN apps  
 
-Thanks for stopping by! 😄  
+---
+
+## 🤝 Let's Connect!
+
+- 📧 Email: [mallamohith20@gmail.com](mailto:mallamohith20@gmail.com)  
+- 💼 LinkedIn: [MohithSai Malla](https://www.linkedin.com/in/your-link/)  
+- 💻 GitHub: [@MohithMalla](https://github.com/MohithMalla)  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+
+Thanks for visiting my profile! 😊  
+Let’s build something awesome together! 🌟
