@@ -16,6 +16,7 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 <p align="left">
   <a href="https://linkedin.com/in/mohithmalla" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
