@@ -4,11 +4,11 @@
 
 
 
-- 🌱 I’m currently learning **Next.js, TypeScript, System Design and TailWind**
+- 🌱 I’m currently learning **Next.js, TypeScript and System Design**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects, Hackathons, and Open Source**
 
-- 💬 Ask me about **MERN Stack, DBMS, OS, DSA, and JavaScript**
+- 💬 Ask me about **MERN Stack, TailWind , Bootstrap , DBMS , OS, DSA , and JavaScript**
 
 - 📫 Reach me at **mallamohith20@gmail.com**
 
