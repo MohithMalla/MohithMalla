@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Next.js, TypeScript, and System Design**
+- 🌱 I’m currently learning **Next.js, TypeScript, System Design and TailWind**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects, Hackathons, and Open Source**
 
