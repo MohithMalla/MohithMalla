@@ -55,19 +55,8 @@
 
 ## 📊 GitHub Stats
 
-<!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohithMalla&show_icons=true&locale=en" alt="mohithmalla" />
-</p>
-
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohithMalla&" alt="mohithmalla" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohithMalla&show_icons=true&locale=en&layout=compact" alt="mohithmalla" />
-</p> -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohithMalla&show_icons=true&locale=en" alt="MohithMalla" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohithMalla&theme=github" alt="MohithMalla" />
 </p>
 
 <p align="left">
@@ -75,7 +64,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohithMalla&show_icons=true&locale=en&layout=compact" alt="MohithMalla" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohithMalla&theme=github" alt="MohithMalla" />
 </p>
 
 <!-- Optional: GitHub activity graph -->
