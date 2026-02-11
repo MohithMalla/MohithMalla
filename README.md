@@ -55,7 +55,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MohithMalla&show_icons=true&locale=en" alt="mohithmalla" />
 </p>
 
@@ -65,6 +65,17 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohithMalla&show_icons=true&locale=en&layout=compact" alt="mohithmalla" />
+</p> -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohithMalla&show_icons=true&locale=en" alt="MohithMalla" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohithMalla" alt="MohithMalla" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohithMalla&show_icons=true&locale=en&layout=compact" alt="MohithMalla" />
 </p>
 
 <!-- Optional: GitHub activity graph -->
